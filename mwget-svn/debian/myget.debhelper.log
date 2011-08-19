@@ -1,0 +1,10 @@
+dh_prep
+dh_installdirs
+dh_install
+dh_perl
+dh_makeshlibs
+dh_installdeb
+dh_shlibdeps
+dh_gencontrol
+dh_md5sums
+dh_builddeb
