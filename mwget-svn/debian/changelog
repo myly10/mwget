@@ -1,5 +1,0 @@
-mwget (0.1.0-kmbuild8) unstable; urgency=low
-
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
-
- -- 万致远 <rgwan@kmlinux.tk>  Tue, 16 Aug 2011 15:28:18 +0800
